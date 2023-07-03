@@ -192,7 +192,7 @@ const LoginPage = () => {
             </svg>
             <Box sx={{ my: 6 }}>
               <Typography variant='h3' sx={{ mb: 1.5 }}>
-                {`Welcome to ${themeConfig.templateName}! 👋🏻`}
+                {`Seja Bem-Vindo ao ${themeConfig.templateName}! 👋🏻`}
               </Typography>
               <Typography sx={{ color: 'text.secondary' }}>
                 Please sign-in to your account and start the adventure
